@@ -1,16 +1,19 @@
-### Hi there 👋
+### K2ls Good luck
 
-<!--
-**k2lsy/k2lsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Designation
+- 🏆 OSCP ✔
+- 🏆 OSWE ✔
+- 🛶 OSEP 🚗
+- 🛶 OSED 🚗
+- 🛶 OSWE 🚗
 
-Here are some ideas to get you started:
+#### Current interest
+- 📕 C++
+- 📕 Malware development
+- 🐱‍👤 Penetration testing
+- 🐱‍👤 Red Team
+- 🙌 Game Hacking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Future
+- Life-long learning 🙌🙌🙌
+- 2024 (´▽`ʃ♡ƪ)
