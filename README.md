@@ -5,7 +5,7 @@
 - 🏆 OSWE ✔
 - 🛶 OSEP 🚗
 - 🛶 OSED 🚗
-- 🛶 OSWE 🚗
+- 🛶 OSEE 🚗🚗🚗
 
 #### Current interest
 - 📕 C++
