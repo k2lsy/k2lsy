@@ -5,12 +5,14 @@
 - 🏆 OSWE ✔
 - 🛶 OSEP 🚗
 - 🛶 OSED 🚗
-- 🛶 OSEE 🚗🚗🚗
+- 🛶 OSEE 🚲
 
 #### Current interest
 - 📕 C++
 - 📕 Malware development
+- 📕 Binary security 🚲
 - 🐱‍👤 Penetration testing
+- 🐱‍👤 Code audit
 - 🐱‍👤 Red Team
 - 🙌 Game Hacking
 
